@@ -1,0 +1,9 @@
+
+A.links:active { COLOR: #0000CC; FONT-FAMILY: Arial;FONT-WEIGHT: normal;
+TEXT-DECORATION: none  }
+A.links:link { COLOR: #0000CC; FONT-FAMILY: Arial; FONT-WEIGHT: normal;
+TEXT-DECORATION: none }
+A.links:visited { COLOR: #0000CC; FONT-FAMILY: Arial; FONT-WEIGHT: normal;
+TEXT-DECORATION: none }
+A.links:hover { COLOR: #0000CC; FONT-FAMILY:  Arial; FONT-WEIGHT: normal;
+TEXT-DECORATION: underline }

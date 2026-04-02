@@ -1,0 +1,94 @@
+.mstheme
+{
+	separator-image: url(capsepd.gif);
+	list-image-1: url(capbul1d.gif);
+	list-image-2: url(capbul2d.gif);
+	list-image-3: url(capbul3d.gif);
+	nav-banner-image: url(capbannd.gif);
+	navbutton-horiz-normal: url(capnavhd.gif);
+	navbutton-horiz-hovered: url(capnavhd.gif);
+	navbutton-horiz-pushed: url(capnavhp.gif);
+	navbutton-vert-normal: url(capnavvd.gif);
+	navbutton-vert-hovered: url(capnavvd.gif);
+	navbutton-vert-pushed: url(capnavvp.gif);
+	navbutton-home-normal: url(caphomed.gif);
+	navbutton-home-hovered: url(caphomed.gif);
+	navbutton-home-pushed: url(caphomed.gif);
+	navbutton-next-normal: url(capnextd.gif);
+	navbutton-next-hovered: url(capnextd.gif);
+	navbutton-next-pushed: url(capnextd.gif);
+	navbutton-prev-normal: url(capbackd.gif);
+	navbutton-prev-hovered: url(capbackd.gif);
+	navbutton-prev-pushed: url(capbackd.gif);
+	navbutton-up-normal: url(capupd.gif);
+	navbutton-up-hovered: url(capupd.gif);
+	navbutton-up-pushed: url(capupd.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Arial,Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 5;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: arial,helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-vert-navtxt
+{
+	font-family: arial,helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxthome
+{
+	font-family: arial,helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtnext
+{
+	font-family: arial,helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtprev
+{
+	font-family: arial,helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtup
+{
+	font-family: arial,helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+ul
+{
+	list-style-image: url(capbul1d.gif);
+}
+ul ul
+{
+	list-style-image: url(capbul2d.gif);
+}
+ul ul ul
+{
+	list-style-image: url(capbul3d.gif);
+}
